@@ -1,28 +1,47 @@
 body {
-  background: rgb(80, 44, 85);
   background: linear-gradient(90deg, rgba(80, 44, 85, 1) 14%, rgba(24, 96, 13, 1) 63%, rgba(105, 31, 64, 1) 100%);
 }
 
 .container{
-  border-radius: 10px; background-color: white; border: 1px solid black; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding: 20px; text-align: center; box-shadow: 10px 10px 10px rgb(41, 41, 41);
+  background-color: #fff; /* Use a more standard background color */
+  box-shadow: 10px 10px 10px rgba(41, 41, 41, 0.5); /* Specify the box shadow properties */
+  left: 50%;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #000; /* Simplify the border properties */
+  border-radius: 10px;
+  padding: 20px;
+  width: auto;
 }
 
-.sliders{
-  position: relative; left: -15%; display: flex; align-items: end; flex-direction: column;
+.sliders {
+  position: relative;
+  left: -15%;
+  display: flex;
+  flex-direction: column; /* Adjust the flex direction property */
+  align-items: flex-end; /* Adjust the alignment */
 }
 
-.slider{
-  display: flex; align-items: center;
+.slider {
+  display: flex;
+  align-items: center;
 }
 
-.copy_button{
-  display: flex; align-items: center;
+.copy_button {
+  display: flex;
+  align-items: center;
 }
 
-.rgb_area{
-  border: 1px solid black; height: 150px;
+.rgb_area {
+  border: 1px solid #000;
+  height: 150px;
 }
 
-.values{
-  border: 1px solid black; padding: 20px; width: 120px; margin-left: 15px;
+.values {
+  border: 1px solid #000;
+  padding: 20px;
+  width: 120px;
+  margin-left: 15px;
 }
