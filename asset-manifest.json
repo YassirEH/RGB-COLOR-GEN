@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RGB-COLOR-GENERATOR-REACT/static/css/main.5a7f0703.css",
+    "main.css": "/RGB-COLOR-GENERATOR-REACT/static/css/main.1114a345.css",
     "main.js": "/RGB-COLOR-GENERATOR-REACT/static/js/main.4701489b.js",
     "static/js/787.72808f36.chunk.js": "/RGB-COLOR-GENERATOR-REACT/static/js/787.72808f36.chunk.js",
     "index.html": "/RGB-COLOR-GENERATOR-REACT/index.html",
-    "main.5a7f0703.css.map": "/RGB-COLOR-GENERATOR-REACT/static/css/main.5a7f0703.css.map",
+    "main.1114a345.css.map": "/RGB-COLOR-GENERATOR-REACT/static/css/main.1114a345.css.map",
     "main.4701489b.js.map": "/RGB-COLOR-GENERATOR-REACT/static/js/main.4701489b.js.map",
     "787.72808f36.chunk.js.map": "/RGB-COLOR-GENERATOR-REACT/static/js/787.72808f36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7f0703.css",
+    "static/css/main.1114a345.css",
     "static/js/main.4701489b.js"
   ]
 }
