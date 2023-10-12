@@ -1,4 +1,6 @@
-# Live Demo
+This is a simple project that generates RGB colors.
 
-This is project [Live Demo][https://yassireh.github.io/RGB-COLOR-GEN/].
+## Live Demo
+
+Check out the [Live Demo](https://yassireh.github.io/RGB-COLOR-GEN/).
 
