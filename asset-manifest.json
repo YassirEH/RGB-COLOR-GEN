@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RGB-COLOR-GEN/static/css/main.08257485.css",
+    "main.js": "/RGB-COLOR-GEN/static/js/main.839b9b54.js",
+    "static/js/787.72808f36.chunk.js": "/RGB-COLOR-GEN/static/js/787.72808f36.chunk.js",
+    "index.html": "/RGB-COLOR-GEN/index.html",
+    "main.08257485.css.map": "/RGB-COLOR-GEN/static/css/main.08257485.css.map",
+    "main.839b9b54.js.map": "/RGB-COLOR-GEN/static/js/main.839b9b54.js.map",
+    "787.72808f36.chunk.js.map": "/RGB-COLOR-GEN/static/js/787.72808f36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08257485.css",
+    "static/js/main.839b9b54.js"
+  ]
+}
